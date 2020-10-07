@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\palad\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\palad\\.nuget\\packages",
+      "G:\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
